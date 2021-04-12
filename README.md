@@ -7,7 +7,7 @@
   * We built this with ❤️
 
 * Technical Stack
- * Python
- * Django
- * BeautifulSoup
- * Html/Css
+  * Python
+  * Django
+  * BeautifulSoup
+  * Html/Css
